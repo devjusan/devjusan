@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando no projeto **PETSHOP-IFSP**
 
-- 🌱 Ando muito estudando **ReactJS e Redux**
+- 🌱 Ando estudando muito **ReactJS e Redux**
 
 - 💬 Pergunte-me sobre **Hooks, React Router, Custom Hook, CSS**
 
