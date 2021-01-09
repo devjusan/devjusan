@@ -4,7 +4,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjusan&show_icons=true&locale=pt-br" alt="devjusan" /></p>
 
 
-- 🔭 Atualmente estou trabalhando no projeto **PETSHOP-IFSP**
+- 🔭 Atualmente estou trabalhando no projeto pessoal da faculdade **PETSHOP-IFSP**
 
 - 🌱 Ando estudando muito **ReactJS e Redux**
 
