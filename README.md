@@ -1,7 +1,7 @@
 <h1 align="center">E aí, <dev/> Eu sou o Junior 👋</h1>
-<h3 align="center">Um Front-end apaixonado pelo que faz.</h3>
+<h3 align="center">Um Front-end apaixonado!</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjusan&show_icons=true&locale=pt-br" alt="devjusan" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjusan&show_icons=true&locale=pt-br" alt="devjusan" /></p>
 
 
 - 🔭 Atualmente estou trabalhando no projeto pessoal da faculdade **PETSHOP-IFSP**
