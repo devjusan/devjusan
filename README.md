@@ -1,5 +1,6 @@
 <h1 align="center">E aí, <dev/> Eu sou o Junior 👋</h1>
 <h3 align="center">Um Dev Front-end apaixonado pelo que faz.</h3>
+
 - 👋 No momento estou procurando uma **oportunidade no mercado**
 
 - 🌱 Ando estudando muito **ReactJS e Redux**
@@ -11,6 +12,7 @@
 - 📫 Como entrar em contato **v.junior@aluno.ifsp.edu.br**
 
 - ⚡ Fato curioso (talvez) **Eu sou muito bom no xadrez**
+
 <h3 align="center">Entre em contato!:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/devjusan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devjusan" height="30" width="40" /></a>
