@@ -1,7 +1,8 @@
 <h1 align="center">E aí, <dev/> Eu sou o Junior <img src="https://github.com/devjusan/devjusan/blob/main/Hi.gif" width="30px"></h1>
 <h3 align="center">Um Dev Front-end ativo!</h3>
 
-<img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"></img>
+<p align="center"><img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"></p>
+
 
 - 👋 No momento estou procurando uma **oportunidade no mercado**
 
