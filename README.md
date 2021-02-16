@@ -12,7 +12,7 @@
 
 - 💬 Ask me for **Hooks, React Router, Custom Hook, CSS**
 
-- 📫 Contact me **v.junior@aluno.ifsp.edu.br**
+- 📫 Contact me **https://jusan.netlify.app/**
 
 - ⚡ Curious fact (maybe not): i'm very good at **chess!**
 
