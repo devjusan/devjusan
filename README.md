@@ -14,6 +14,8 @@
 
 - 📫 Contact me **https://jusan.netlify.app/**
 
+- :) of course, the best projects are private.
+
 - ⚡ Curious fact (maybe not): i'm very good at **chess!**
 
 <h3 align="center">Contact me!:</h3>
