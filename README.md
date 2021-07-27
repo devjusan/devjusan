@@ -6,9 +6,7 @@
 
 - 👋 In the moment i'm searching an opportunity in the **marketplace**
 
-- 🌱 I'm studying a lot  **ReactJS e Redux**
-
-- 🔭 At this moment, i'm focused on **freelance jobs**
+- 🌱 I'm studying a lot  **NextJS, TDD, React Testing Library, Jest, Strapi, GraphQL**
 
 - 💬 Ask me for **Hooks, React Router, Custom Hook, CSS**
 
