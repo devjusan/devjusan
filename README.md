@@ -4,7 +4,7 @@
 <p align="center"><img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"></p>
 
 
-- 👋 In the moment i'm searching an opportunity in the **marketplace**
+- 👋 In the moment i'm a frontend developer at **Zukk**
 
 - 🌱 I'm studying a lot  **NextJS, TDD, React Testing Library, Jest, Strapi, GraphQL, Storybook**
 
