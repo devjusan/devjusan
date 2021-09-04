@@ -6,9 +6,7 @@
 
 - 👋 In the moment i'm a frontend developer at **Zukk**
 
-- 🌱 I'm studying a lot  **NextJS, TDD, React Testing Library, Jest, Strapi, GraphQL, Storybook**
-
-- 💬 Ask me for **Hooks, React Router, Custom Hook, CSS**
+- 🌱 I'm studying a lot  **rxjs NextJS, TDD, React Testing Library, Jest, Strapi, GraphQL, Storybook**
 
 - 📫 Contact me **https://jusan.netlify.app/**
 
