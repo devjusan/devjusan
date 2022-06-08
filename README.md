@@ -8,7 +8,7 @@
 
 - 🌱 I'm studying a lot  **RXjs, NextJS, TDD, React Testing Library, Jest, Strapi, GraphQL, Storybook**
 
-- 📫 Contact me **https://jusan.netlify.app/**
+- 📫 Contact me **https://jusan.dev/**
 
 - :) of course, the best projects are private.
 
