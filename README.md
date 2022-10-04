@@ -4,7 +4,7 @@
 <p align="center"><img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"></p>
 
 
-- 👋 In the moment i'm a frontend developer at **Zukk**
+- 👋 In the moment i'm a frontend developer at **Agrotools**
 
 - 🌱 I'm studying a lot  **RXjs, NextJS, TDD, React Testing Library, Jest, Strapi, GraphQL, Storybook**
 
